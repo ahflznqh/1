@@ -7,15 +7,15 @@
 냥따봉
 
 작혼 플러스 일본서버 한글패치는 [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)에서 사용할 수 있는 리소스 팩입니다.
-
 원제작자의 [글로벌 서버 한글패치](https://github.com/yf-dev/majsoul-plus-korean)를 일본서버에서도 적용할 수 있도록 바꿔놓은 것입니다.
 
+**현재는 작혼 플러스 버전 작업을 중지했고 웹버전만 작업중입니다.**
+**제보는 디시인사이드 마작 갤러리로 부탁드립니다.**
 
 ### 1. 요구조건
 
-- [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus) Version 2.0.0 
-- 작혼 Plus의 Settings에서 User Data의 Server to play 값을 1로 설정
-
+ - Tempermonkey
+ - 
 #### 2.스크린샷
 
 나중에 추가함
@@ -28,6 +28,10 @@
 
 ### 제작
 
+원제작자
+- [Nesswit](https://github.com/rishubil)
+
+번역 및 이미지 수정
 - [Nesswit](https://github.com/rishubil)
 - 신짱구
 - 일급천재
